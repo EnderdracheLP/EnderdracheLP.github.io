@@ -2,7 +2,11 @@
 
 I make BeatSaber Quest Mods
 
-This site is still work in progress
+### This site is still work in progress
+
+In the meantime check out [my github repositories.](https://github.com/EnderdracheLP?tab=repositories)
+
+Or check out my [Beat Saber Uptime Monitor](https://status.enderdrachelp.tk)
 
 <!--
 You can use the [editor on GitHub](https://github.com/EnderdracheLP/EnderdracheLP.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
